@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\source\\repos\\WebBackSOAP\\WebBackSOAP\\WebBackSOAP.csproj": {}
+    "C:\\Users\\admin\\Source\\Repos\\backend-net\\WebBackSOAP\\WebBackSOAP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\source\\repos\\WebBackSOAP\\WebBackSOAP\\WebBackSOAP.csproj": {
+    "C:\\Users\\admin\\Source\\Repos\\backend-net\\WebBackSOAP\\WebBackSOAP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\source\\repos\\WebBackSOAP\\WebBackSOAP\\WebBackSOAP.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Source\\Repos\\backend-net\\WebBackSOAP\\WebBackSOAP.csproj",
         "projectName": "WebBackSOAP",
-        "projectPath": "C:\\Users\\admin\\source\\repos\\WebBackSOAP\\WebBackSOAP\\WebBackSOAP.csproj",
+        "projectPath": "C:\\Users\\admin\\Source\\Repos\\backend-net\\WebBackSOAP\\WebBackSOAP.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\source\\repos\\WebBackSOAP\\WebBackSOAP\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Source\\Repos\\backend-net\\WebBackSOAP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

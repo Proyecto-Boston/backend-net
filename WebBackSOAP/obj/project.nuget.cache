@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q8RyzsNknxPqCE6S27ruz3fNbLhfv7wLkHXkmKngqY1FTs9IcMXZWEaIboBgJ8bgge3M/57eZvewnzRui/YfoA==",
+  "dgSpecHash": "GU7iANajTJSeCjHXm8QOAkx9XliuQ4nGYy+anfGPJ6XHHq/bULliUPmtBxmq5bmHTySi80XHgPcntyMk37XTzA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\source\\repos\\WebBackSOAP\\WebBackSOAP\\WebBackSOAP.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Source\\Repos\\backend-net\\WebBackSOAP\\WebBackSOAP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
